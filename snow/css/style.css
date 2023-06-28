@@ -1,5 +1,7 @@
-.container {
-  width: 1060px;
-  height: 968px;
+body{
   overflow: hidden;
+}
+.container {
+  width: 1260px;
+  height: 968px;
 }
